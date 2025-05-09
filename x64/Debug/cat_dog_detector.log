@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ismai\source\repos\cat_dog_detector\cat_dog_detector\sourceFiles\main.cpp(52,29): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+  cat_dog_detector.vcxproj -> C:\Users\ismai\source\repos\cat_dog_detector\x64\Debug\cat_dog_detector.exe
